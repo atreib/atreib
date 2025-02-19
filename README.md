@@ -1,7 +1,5 @@
 # Hi there, I'm André 👋  
 
-![](./me.jpg)
-
 I'm a Senior Software Engineer specializing in Full Stack Web Development. I have over 10 years of experience working with web development. For the past few years, I have been working with React, Node.js, Next.js and Remix.
 
 I'm the creator of [The Background Text](https://github.com/atreib/thebackgroundtext), [Cloudret](https://github.com/atreib/dret) and [Tripwise](https://github.com/atreib/tripwise). And I'm currently working at House Numbers, as a Senior Software Engineer. You can find my [full portfolio here](https://www.andretreib.com/).
