@@ -7,9 +7,9 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
-I am André Treib, a senior product engineer with 11 years of experience designing and shipping software end-to-end. My work spans the full web stack — from system design and backend architecture through frontend implementation, with deliberate investment in testing, observability, and developer tooling along the way.
+I am André Treib, a senior product engineer with 12 years of experience designing and shipping software end-to-end. My work spans the full web stack — from system design and backend architecture through frontend implementation, with deliberate investment in testing, observability, and developer tooling along the way.
 
-Over the past two years, I have made AI-native product engineering my primary focus. I work fluently with LLM integration across the major providers, RAG pipelines, vector databases and embeddings, document chunking and OCR parsing, semantic search, prompt engineering, agentic workflows over event-driven architectures, and the Model Context Protocol. The combination of AI coding assistants and purpose-built internal tooling has reshaped how I deliver: scopes that previously took weeks now take days, without compromising the testing rigor I bring to every feature.
+Over the past three years, I have made AI-native product engineering my primary focus. I work fluently with LLM integration across the major providers, RAG pipelines, vector databases and embeddings, document chunking and OCR parsing, semantic search, prompt engineering, agentic workflows over event-driven architectures, and the Model Context Protocol. The combination of AI coding assistants and purpose-built internal tooling has reshaped how I deliver: scopes that previously took weeks now take days, without compromising the testing rigor I bring to every feature.
 
 Daily stack: TypeScript, Node.js, React, Next.js, React Router v7 (Remix). Working knowledge of C#, Kotlin, Rust, Go, and Python. Comfortable across PostgreSQL, MySQL, SQL Server, MongoDB, Redis, Docker, and serverless architectures on AWS and Azure.
 
@@ -26,4 +26,3 @@ Beyond the code: Five years on English-first remote teams. Track record of hirin
 You can find my in my socials below. I'll be happy to meet you!
 
 - [LinkedIn](https://www.linkedin.com/in/atreib/)  
-- [X (formerly Twitter)](https://x.com/treibthedev)  
